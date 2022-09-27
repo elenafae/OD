@@ -1,0 +1,14 @@
+Screen dumps are from Dr. R.’s MoG code (Python 2.7)
+
+Using constants
+k = 0.0172020989484
+obliquity = 23.4379 degrees
+c = 173.144632674240 au/d
+1 yr = 365.256363004 d
+
+Using f & g functions with iteration tolerance = 1E-12
+
+Using main loop iteration tolerance = 1E-12
+
+Enter the name of the file when prompted
+Enter the order to which you want the f&g functions truncated to when prompted
