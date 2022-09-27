@@ -1,4 +1,6 @@
-Screen dumps are from Dr. R.’s MoG code (Python 2.7)
+schwartz_OD.py outputs the orbital elements of an asteroid using the Method of Gauss. 
+testinput3.txt is an example of input the program would take.
+198QA.txt contains data for asteroid 1981 QA or 3102 Krok. 
 
 Using constants
 k = 0.0172020989484
